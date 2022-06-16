@@ -1,0 +1,533 @@
+﻿Unique ID ;Parent;Name;Tier 1;Tier 2;Tier 3;Tier 4
+1;;Automotive;Automotive;;;
+2;1;Auto Body Styles;Automotive;Auto Body Styles;;
+3;2;Commercial Trucks;Automotive;Auto Body Styles;Commercial Trucks;
+4;2;Sedan;Automotive;Auto Body Styles;Sedan;
+5;2;Station Wagon;Automotive;Auto Body Styles;Station Wagon;
+6;2;SUV;Automotive;Auto Body Styles;SUV;
+7;2;Van;Automotive;Auto Body Styles;Van;
+8;2;Convertible;Automotive;Auto Body Styles;Convertible;
+9;2;Coupe;Automotive;Auto Body Styles;Coupe;
+10;2;Crossover;Automotive;Auto Body Styles;Crossover;
+11;2;Hatchback;Automotive;Auto Body Styles;Hatchback;
+12;2;Microcar;Automotive;Auto Body Styles;Microcar;
+13;2;Minivan;Automotive;Auto Body Styles;Minivan;
+14;2;Off-Road Vehicles;Automotive;Auto Body Styles;Off-Road Vehicles;
+15;2;Pickup Trucks;Automotive;Auto Body Styles;Pickup Trucks;
+16;1;Auto Type;Automotive;Auto Type;;
+17;16;Budget Cars;Automotive;Auto Type;Budget Cars;
+18;16;Certified Pre-Owned Cars;Automotive;Auto Type;Certified Pre-Owned Cars;
+19;16;Classic Cars;Automotive;Auto Type;Classic Cars;
+20;16;Concept Cars;Automotive;Auto Type;Concept Cars;
+21;16;Driverless Cars;Automotive;Auto Type;Driverless Cars;
+22;16;Green Vehicles;Automotive;Auto Type;Green Vehicles;
+23;16;Luxury Cars;Automotive;Auto Type;Luxury Cars;
+24;16;Performance Cars;Automotive;Auto Type;Performance Cars;
+25;1;Car Culture;Automotive;Car Culture;;
+26;1;Dash Cam Videos;Automotive;Dash Cam Videos;;
+27;1;Motorcycles;Automotive;Motorcycles;;
+28;1;Road-Side Assistance;Automotive;Road-Side Assistance;;
+29;1;Scooters;Automotive;Scooters;;
+30;1;Auto Buying and Selling;Automotive;Auto Buying and Selling;;
+31;1;Auto Insurance;Automotive;Auto Insurance;;
+32;1;Auto Parts;Automotive;Auto Parts;;
+33;1;Auto Recalls;Automotive;Auto Recalls;;
+34;1;Auto Repair;Automotive;Auto Repair;;
+35;1;Auto Safety;Automotive;Auto Safety;;
+36;1;Auto Shows;Automotive;Auto Shows;;
+37;1;Auto Technology;Automotive;Auto Technology;;
+38;37;Auto Infotainment Technologies;Automotive;Auto Technology;Auto Infotainment Technologies;
+39;37;Auto Navigation Systems;Automotive;Auto Technology;Auto Navigation Systems;
+40;37;Auto Safety Technologies;Automotive;Auto Technology;Auto Safety Technologies;
+41;1;Auto Rentals;Automotive;Auto Rentals;;
+42;;Books and Literature;Books and Literature;;;
+52;;Business and Finance;Business and Finance;;;
+53;52;Business;Business and Finance;Business;;
+54;53;Business Accounting & Finance;Business and Finance;Business;Business Accounting & Finance;
+55;53;Human Resources;Business and Finance;Business;Human Resources;
+56;53;Large Business;Business and Finance;Business;Large Business;
+57;53;Logistics;Business and Finance;Business;Logistics;
+58;53;Marketing and Advertising;Business and Finance;Business;Marketing and Advertising;
+59;53;Sales;Business and Finance;Business;Sales;
+60;53;Small and Medium-sized Business;Business and Finance;Business;Small and Medium-sized Business;
+61;53;Startups;Business and Finance;Business;Startups;
+62;53;Business Administration;Business and Finance;Business;Business Administration;
+63;53;Business Banking & Finance;Business and Finance;Business;Business Banking & Finance;
+64;63;Angel Investment;Business and Finance;Business;Business Banking & Finance;Angel Investment
+65;63;Bankruptcy;Business and Finance;Business;Business Banking & Finance;Bankruptcy
+66;63;Business Loans;Business and Finance;Business;Business Banking & Finance;Business Loans
+67;63;Debt Factoring & Invoice Discounting;Business and Finance;Business;Business Banking & Finance;Debt Factoring & Invoice Discounting
+68;63;Mergers and Acquisitions;Business and Finance;Business;Business Banking & Finance;Mergers and Acquisitions
+69;63;Private Equity;Business and Finance;Business;Business Banking & Finance;Private Equity
+70;63;Sale & Lease Back;Business and Finance;Business;Business Banking & Finance;Sale & Lease Back
+71;63;Venture Capital;Business and Finance;Business;Business Banking & Finance;Venture Capital
+72;53;Business I.T.;Business and Finance;Business;Business I.T.;
+73;53;Business Operations;Business and Finance;Business;Business Operations;
+74;53;Consumer Issues;Business and Finance;Business;Consumer Issues;
+75;74;Recalls;Business and Finance;Business;Consumer Issues;Recalls
+76;53;Executive Leadership & Management;Business and Finance;Business;Executive Leadership & Management;
+77;53;Government Business;Business and Finance;Business;Government Business;
+78;53;Green Solutions;Business and Finance;Business;Green Solutions;
+79;53;Business Utilities;Business and Finance;Business;Business Utilities;
+80;52;Economy;Business and Finance;Economy;;
+81;80;Commodities;Business and Finance;Economy;Commodities;
+82;80;Currencies;Business and Finance;Economy;Currencies;
+83;80;Financial Crisis;Business and Finance;Economy;Financial Crisis;
+84;80;Financial Reform;Business and Finance;Economy;Financial Reform;
+85;80;Financial Regulation;Business and Finance;Economy;Financial Regulation;
+86;80;Gasoline Prices;Business and Finance;Economy;Gasoline Prices;
+87;80;Housing Market;Business and Finance;Economy;Housing Market;
+88;80;Interest Rates;Business and Finance;Economy;Interest Rates;
+89;80;Job Market;Business and Finance;Economy;Job Market;
+90;52;Industries;Business and Finance;Industries;;
+91;90;Advertising Industry;Business and Finance;Industries;Advertising Industry;
+92;90;Education industry;Business and Finance;Industries;Education industry;
+93;90;Entertainment Industry;Business and Finance;Industries;Entertainment Industry;
+94;90;Environmental Services Industry;Business and Finance;Industries;Environmental Services Industry;
+95;90;Financial Industry;Business and Finance;Industries;Financial Industry;
+97;90;Healthcare Industry;Business and Finance;Industries;Healthcare Industry;
+98;90;Hospitality Industry;Business and Finance;Industries;Hospitality Industry;
+99;90;Information Services Industry;Business and Finance;Industries;Information Services Industry;
+100;90;Legal Services Industry;Business and Finance;Industries;Legal Services Industry;
+101;90;Logistics and Transportation Industry;Business and Finance;Industries;Logistics and Transportation Industry;
+102;90;Agriculture;Business and Finance;Industries;Agriculture;
+103;90;Management Consulting Industry;Business and Finance;Industries;Management Consulting Industry;
+104;90;Manufacturing Industry;Business and Finance;Industries;Manufacturing Industry;
+105;90;Mechanical and Industrial Engineering Industry;Business and Finance;Industries;Mechanical and Industrial Engineering Industry;
+106;90;Media Industry;Business and Finance;Industries;Media Industry;
+107;90;Metals Industry;Business and Finance;Industries;Metals Industry;
+108;90;Non-Profit Organizations;Business and Finance;Industries;Non-Profit Organizations;
+109;90;Pharmaceutical Industry;Business and Finance;Industries;Pharmaceutical Industry;
+110;90;Power and Energy Industry;Business and Finance;Industries;Power and Energy Industry;
+111;90;Publishing Industry;Business and Finance;Industries;Publishing Industry;
+112;90;Real Estate Industry;Business and Finance;Industries;Real Estate Industry;
+113;90;Apparel Industry;Business and Finance;Industries;Apparel Industry;
+114;90;Retail Industry;Business and Finance;Industries;Retail Industry;
+115;90;Technology Industry;Business and Finance;Industries;Technology Industry;
+116;90;Telecommunications Industry;Business and Finance;Industries;Telecommunications Industry;
+117;90;Automotive Industry;Business and Finance;Industries;Automotive Industry;
+118;90;Aviation Industry;Business and Finance;Industries;Aviation Industry;
+119;90;Biotech and Biomedical Industry;Business and Finance;Industries;Biotech and Biomedical Industry;
+120;90;Civil Engineering Industry;Business and Finance;Industries;Civil Engineering Industry;
+121;90;Construction Industry;Business and Finance;Industries;Construction Industry;
+122;90;Defense Industry;Business and Finance;Industries;Defense Industry;
+123;;Careers;Careers;;;
+124;123;Apprenticeships;Careers;Apprenticeships;;
+125;123;Career Advice;Careers;Career Advice;;
+126;123;Career Planning;Careers;Career Planning;;
+127;123;Job Search;Careers;Job Search;;
+128;127;Job Fairs;Careers;Job Search;Job Fairs;
+129;127;Resume Writing and Advice;Careers;Job Search;Resume Writing and Advice;
+130;123;Remote Working;Careers;Remote Working;;
+131;123;Vocational Training;Careers;Vocational Training;;
+132;;Education;Education;;;
+133;132;Adult Education;Education;Adult Education;;
+134;132;Private School;Education;Private School;;
+135;132;Secondary Education;Education;Secondary Education;;
+136;132;Special Education;Education;Special Education;;
+137;132;College Education;Education;College Education;;
+138;137;College Planning;Education;College Education;College Planning;
+139;137;Postgraduate Education;Education;College Education;Postgraduate Education;
+140;139;Professional School;Education;College Education;Postgraduate Education;Professional School
+141;137;Undergraduate Education;Education;College Education;Undergraduate Education;
+142;132;Early Childhood Education;Education;Early Childhood Education;;
+143;132;Educational Assessment;Education;Educational Assessment;;
+144;143;Standardized Testing;Education;Educational Assessment;Standardized Testing;
+145;132;Homeschooling;Education;Homeschooling;;
+146;132;Homework and Study;Education;Homework and Study;;
+147;132;Language Learning;Education;Language Learning;;
+148;132;Online Education;Education;Online Education;;
+149;132;Primary Education;Education;Primary Education;;
+8VZQHL;;Events;Events;;;
+162;8VZQHL;Awards Shows;Events;Awards Shows;;
+180;8VZQHL;Business Expos & Conferences;Events;Business Expos & Conferences;;
+185;8VZQHL;Fan Conventions;Events;Fan Conventions;;
+1KXCLD;;Holidays;Holidays;;;
+157;1KXCLD;National & Civic Holidays;Holidays;National & Civic Holidays;;
+150;;Attractions;Attractions;;;
+151;150;Amusement and Theme Parks;Attractions;Amusement and Theme Parks;;
+153;150;Historic Site and Landmark Tours;Attractions;Historic Site and Landmark Tours;;
+154;150;Malls & Shopping Centers;Attractions;Malls & Shopping Centers;;
+155;150;Museums & Galleries;Attractions;Museums & Galleries;;
+158;150;Nightclubs;Attractions;Nightclubs;;
+159;150;Outdoor Activities;Attractions;Outdoor Activities;;
+160;150;Parks & Nature;Attractions;Parks & Nature;;
+177;150;Theater Venues;Attractions;Theater Venues;;
+178;150;Zoos & Aquariums;Attractions;Zoos & Aquariums;;
+179;150;Bars & Restaurants;Attractions;Bars & Restaurants;;
+181;150;Casinos & Gambling;Attractions;Casinos & Gambling;;
+163;;Personal Celebrations & Life Events;Personal Celebrations & Life Events;;;
+164;163;Anniversary;Personal Celebrations & Life Events;Anniversary;;
+165;163;Wedding;Personal Celebrations & Life Events;Wedding;;
+166;163;Baby Shower;Personal Celebrations & Life Events;Baby Shower;;
+167;163;Bachelor Party;Personal Celebrations & Life Events;Bachelor Party;;
+168;163;Bachelorette Party;Personal Celebrations & Life Events;Bachelorette Party;;
+169;163;Birth;Personal Celebrations & Life Events;Birth;;
+170;163;Birthday;Personal Celebrations & Life Events;Birthday;;
+171;163;Funeral;Personal Celebrations & Life Events;Funeral;;
+172;163;Graduation;Personal Celebrations & Life Events;Graduation;;
+173;163;Prom;Personal Celebrations & Life Events;Prom;;
+186;186;Family and Relationships;Family and Relationships;;;
+187;186;Bereavement;Family and Relationships;Bereavement;;
+188;186;Dating;Family and Relationships;Dating;;
+189;186;Divorce;Family and Relationships;Divorce;;
+190;186;Eldercare;Family and Relationships;Eldercare;;
+191;186;Marriage and Civil Unions;Family and Relationships;Marriage and Civil Unions;;
+192;186;Parenting;Family and Relationships;Parenting;;
+193;192;Adoption and Fostering;Family and Relationships;Parenting;Adoption and Fostering;
+194;192;Daycare and Pre-School;Family and Relationships;Parenting;Daycare and Pre-School;
+195;192;Internet Safety;Family and Relationships;Parenting;Internet Safety;
+196;192;Parenting Babies and Toddlers;Family and Relationships;Parenting;Parenting Babies and Toddlers;
+197;192;Parenting Children Aged 4-11;Family and Relationships;Parenting;Parenting Children Aged 4-11;
+198;192;Parenting Teens;Family and Relationships;Parenting;Parenting Teens;
+199;192;Special Needs Kids;Family and Relationships;Parenting;Special Needs Kids;
+200;186;Single Life;Family and Relationships;Single Life;;
+201;;Fine Art;Fine Art;;;
+202;201;Costume;Fine Art;Costume;;
+203;201;Dance;Fine Art;Dance;;
+204;201;Design;Fine Art;Design;;
+205;201;Digital Arts;Fine Art;Digital Arts;;
+206;201;Fine Art Photography;Fine Art;Fine Art Photography;;
+207;201;Modern Art;Fine Art;Modern Art;;
+208;201;Opera;Fine Art;Opera;;
+209;201;Theater;Fine Art;Theater;;
+210;;Food & Drink;Food & Drink;;;
+211;210;Alcoholic Beverages;Food & Drink;Alcoholic Beverages;;
+212;210;Vegan Diets;Food & Drink;Vegan Diets;;
+213;210;Vegetarian Diets;Food & Drink;Vegetarian Diets;;
+214;210;World Cuisines;Food & Drink;World Cuisines;;
+215;210;Barbecues and Grilling;Food & Drink;Barbecues and Grilling;;
+216;210;Cooking;Food & Drink;Cooking;;
+217;210;Desserts and Baking;Food & Drink;Desserts and Baking;;
+218;210;Dining Out;Food & Drink;Dining Out;;
+219;210;Food Allergies;Food & Drink;Food Allergies;;
+220;210;Food Movements;Food & Drink;Food Movements;;
+221;210;Healthy Cooking and Eating;Food & Drink;Healthy Cooking and Eating;;
+222;210;Non-Alcoholic Beverages;Food & Drink;Non-Alcoholic Beverages;;
+223;;Healthy Living;Healthy Living;;;
+224;223;Children's Health;Healthy Living;Children's Health;;
+225;223;Fitness and Exercise;Healthy Living;Fitness and Exercise;;
+226;225;Participant Sports;Healthy Living;Fitness and Exercise;Participant Sports;
+227;225;Running and Jogging;Healthy Living;Fitness and Exercise;Running and Jogging;
+228;223;Men's Health;Healthy Living;Men's Health;;
+229;223;Nutrition;Healthy Living;Nutrition;;
+230;223;Senior Health;Healthy Living;Senior Health;;
+231;223;Weight Loss;Healthy Living;Weight Loss;;
+232;223;Wellness;Healthy Living;Wellness;;
+233;232;Alternative Medicine;Healthy Living;Wellness;Alternative Medicine;
+234;233;Herbs and Supplements;Healthy Living;Wellness;Alternative Medicine;Herbs and Supplements
+235;233;Holistic Health;Healthy Living;Wellness;Alternative Medicine;Holistic Health
+236;232;Physical Therapy;Healthy Living;Wellness;Physical Therapy;
+237;232;Smoking Cessation;Healthy Living;Wellness;Smoking Cessation;
+238;223;Women's Health;Healthy Living;Women's Health;;
+239;;Hobbies & Interests;Hobbies & Interests;;;
+240;239;Antiquing and Antiques;Hobbies & Interests;Antiquing and Antiques;;
+241;239;Magic and Illusion;Hobbies & Interests;Magic and Illusion;;
+242;239;Model Toys;Hobbies & Interests;Model Toys;;
+243;239;Musical Instruments;Hobbies & Interests;Musical Instruments;;
+244;239;Paranormal Phenomena;Hobbies & Interests;Paranormal Phenomena;;
+245;239;Radio Control;Hobbies & Interests;Radio Control;;
+246;239;Sci-fi and Fantasy;Hobbies & Interests;Sci-fi and Fantasy;;
+247;239;Workshops and Classes;Hobbies & Interests;Workshops and Classes;;
+248;239;Arts and Crafts;Hobbies & Interests;Arts and Crafts;;
+249;248;Beadwork;Hobbies & Interests;Arts and Crafts;Beadwork;
+250;248;Candle and Soap Making;Hobbies & Interests;Arts and Crafts;Candle and Soap Making;
+251;248;Drawing and Sketching;Hobbies & Interests;Arts and Crafts;Drawing and Sketching;
+252;248;Jewelry Making;Hobbies & Interests;Arts and Crafts;Jewelry Making;
+253;248;Needlework;Hobbies & Interests;Arts and Crafts;Needlework;
+254;248;Painting;Hobbies & Interests;Arts and Crafts;Painting;
+255;248;Photography;Hobbies & Interests;Arts and Crafts;Photography;
+256;248;Scrapbooking;Hobbies & Interests;Arts and Crafts;Scrapbooking;
+257;248;Woodworking;Hobbies & Interests;Arts and Crafts;Woodworking;
+258;239;Beekeeping;Hobbies & Interests;Beekeeping;;
+259;239;Birdwatching;Hobbies & Interests;Birdwatching;;
+260;239;Cigars;Hobbies & Interests;Cigars;;
+261;239;Collecting;Hobbies & Interests;Collecting;;
+262;261;Comic Books;Hobbies & Interests;Collecting;Comic Books;
+263;261;Stamps and Coins;Hobbies & Interests;Collecting;Stamps and Coins;
+264;239;Content Production;Hobbies & Interests;Content Production;;
+265;264;Audio Production;Hobbies & Interests;Content Production;Audio Production;
+266;264;Freelance Writing;Hobbies & Interests;Content Production;Freelance Writing;
+267;264;Screenwriting;Hobbies & Interests;Content Production;Screenwriting;
+268;264;Video Production;Hobbies & Interests;Content Production;Video Production;
+269;239;Games and Puzzles;Hobbies & Interests;Games and Puzzles;;
+270;269;Board Games and Puzzles;Hobbies & Interests;Games and Puzzles;Board Games and Puzzles;
+271;269;Card Games;Hobbies & Interests;Games and Puzzles;Card Games;
+272;269;Roleplaying Games;Hobbies & Interests;Games and Puzzles;Roleplaying Games;
+273;239;Genealogy and Ancestry;Hobbies & Interests;Genealogy and Ancestry;;
+274;;Home & Garden;Home & Garden;;;
+275;274;Gardening;Home & Garden;Gardening;;
+276;274;Remodeling & Construction;Home & Garden;Remodeling & Construction;;
+277;274;Smart Home;Home & Garden;Smart Home;;
+278;274;Home Appliances;Home & Garden;Home Appliances;;
+279;274;Home Entertaining;Home & Garden;Home Entertaining;;
+280;274;Home Improvement;Home & Garden;Home Improvement;;
+281;274;Home Security;Home & Garden;Home Security;;
+282;274;Indoor Environmental Quality;Home & Garden;Indoor Environmental Quality;;
+283;274;Interior Decorating;Home & Garden;Interior Decorating;;
+284;274;Landscaping;Home & Garden;Landscaping;;
+285;274;Outdoor Decorating;Home & Garden;Outdoor Decorating;;
+286;;Medical Health;Medical Health;;;
+287;286;Diseases and Conditions;Medical Health;Diseases and Conditions;;
+288;287;Allergies;Medical Health;Diseases and Conditions;Allergies;
+289;287;Ear, Nose and Throat Conditions;Medical Health;Diseases and Conditions;Ear, Nose and Throat Conditions;
+290;287;Endocrine and Metabolic Diseases;Medical Health;Diseases and Conditions;Endocrine and Metabolic Diseases;
+291;290;Hormonal Disorders;Medical Health;Diseases and Conditions;Endocrine and Metabolic Diseases;Hormonal Disorders
+292;290;Menopause;Medical Health;Diseases and Conditions;Endocrine and Metabolic Diseases;Menopause
+293;290;Thyroid Disorders;Medical Health;Diseases and Conditions;Endocrine and Metabolic Diseases;Thyroid Disorders
+294;287;Eye and Vision Conditions;Medical Health;Diseases and Conditions;Eye and Vision Conditions;
+295;287;Foot Health;Medical Health;Diseases and Conditions;Foot Health;
+296;287;Heart and Cardiovascular Diseases;Medical Health;Diseases and Conditions;Heart and Cardiovascular Diseases;
+297;287;Infectious Diseases;Medical Health;Diseases and Conditions;Infectious Diseases;
+298;287;Injuries;Medical Health;Diseases and Conditions;Injuries;
+299;298;First Aid;Medical Health;Diseases and Conditions;Injuries;First Aid
+300;287;Lung and Respiratory Health;Medical Health;Diseases and Conditions;Lung and Respiratory Health;
+301;287;Mental Health;Medical Health;Diseases and Conditions;Mental Health;
+302;287;Reproductive Health;Medical Health;Diseases and Conditions;Reproductive Health;
+303;302;Birth Control;Medical Health;Diseases and Conditions;Reproductive Health;Birth Control
+304;302;Infertility;Medical Health;Diseases and Conditions;Reproductive Health;Infertility
+305;302;Pregnancy;Medical Health;Diseases and Conditions;Reproductive Health;Pregnancy
+306;287;Blood Disorders;Medical Health;Diseases and Conditions;Blood Disorders;
+307;287;Sexual Health;Medical Health;Diseases and Conditions;Sexual Health;
+308;307;Sexual Conditions;Medical Health;Diseases and Conditions;Sexual Health;Sexual Conditions
+309;287;Skin and Dermatology;Medical Health;Diseases and Conditions;Skin and Dermatology;
+310;287;Sleep Disorders;Medical Health;Diseases and Conditions;Sleep Disorders;
+311;287;Substance Abuse;Medical Health;Diseases and Conditions;Substance Abuse;
+312;287;Bone and Joint Conditions;Medical Health;Diseases and Conditions;Bone and Joint Conditions;
+313;287;Brain and Nervous System Disorders;Medical Health;Diseases and Conditions;Brain and Nervous System Disorders;
+314;287;Cancer;Medical Health;Diseases and Conditions;Cancer;
+315;287;Cold and Flu;Medical Health;Diseases and Conditions;Cold and Flu;
+316;287;Dental Health;Medical Health;Diseases and Conditions;Dental Health;
+317;287;Diabetes;Medical Health;Diseases and Conditions;Diabetes;
+318;287;Digestive Disorders;Medical Health;Diseases and Conditions;Digestive Disorders;
+319;286;Medical Tests;Medical Health;Medical Tests;;
+320;286;Pharmaceutical Drugs;Medical Health;Pharmaceutical Drugs;;
+321;286;Surgery;Medical Health;Surgery;;
+322;286;Vaccines;Medical Health;Vaccines;;
+323;286;Cosmetic Medical Services;Medical Health;Cosmetic Medical Services;;
+JLBCU7;;Entertainment;Entertainment;;;
+324;JLBCU7;Movies;Entertainment;Movies;;
+338;JLBCU7;Music;Entertainment;Music;;
+422;;Pets;Pets;;;
+423;422;Birds;Pets;Birds;;
+424;422;Cats;Pets;Cats;;
+425;422;Dogs;Pets;Dogs;;
+426;422;Fish and Aquariums;Pets;Fish and Aquariums;;
+427;422;Large Animals;Pets;Large Animals;;
+428;422;Pet Adoptions;Pets;Pet Adoptions;;
+429;422;Reptiles;Pets;Reptiles;;
+430;422;Veterinary Medicine;Pets;Veterinary Medicine;;
+431;422;Pet Supplies;Pets;Pet Supplies;;
+432;;Pop Culture;Pop Culture;;;
+433;432;Celebrity Deaths;Pop Culture;Celebrity Deaths;;
+434;432;Celebrity Families;Pop Culture;Celebrity Families;;
+435;432;Celebrity Homes;Pop Culture;Celebrity Homes;;
+436;432;Celebrity Pregnancy;Pop Culture;Celebrity Pregnancy;;
+437;432;Celebrity Relationships;Pop Culture;Celebrity Relationships;;
+438;432;Celebrity Scandal;Pop Culture;Celebrity Scandal;;
+439;432;Celebrity Style;Pop Culture;Celebrity Style;;
+440;432;Humor and Satire;Pop Culture;Humor and Satire;;
+441;;Real Estate;Real Estate;;;
+442;441;Apartments;Real Estate;Apartments;;
+443;441;Retail Property;Real Estate;Retail Property;;
+444;441;Vacation Properties;Real Estate;Vacation Properties;;
+445;441;Developmental Sites;Real Estate;Developmental Sites;;
+446;441;Hotel Properties;Real Estate;Hotel Properties;;
+447;441;Houses;Real Estate;Houses;;
+448;441;Industrial Property;Real Estate;Industrial Property;;
+449;441;Land and Farms;Real Estate;Land and Farms;;
+450;441;Office Property;Real Estate;Office Property;;
+451;441;Real Estate Buying and Selling;Real Estate;Real Estate Buying and Selling;;
+452;441;Real Estate Renting and Leasing;Real Estate;Real Estate Renting and Leasing;;
+453;;Religion & Spirituality;Religion & Spirituality;;;
+454;453;Agnosticism;Religion & Spirituality;Agnosticism;;
+455;453;Spirituality;Religion & Spirituality;Spirituality;;
+456;453;Astrology;Religion & Spirituality;Astrology;;
+457;453;Atheism;Religion & Spirituality;Atheism;;
+458;453;Buddhism;Religion & Spirituality;Buddhism;;
+459;453;Christianity;Religion & Spirituality;Christianity;;
+460;453;Hinduism;Religion & Spirituality;Hinduism;;
+461;453;Islam;Religion & Spirituality;Islam;;
+462;453;Judaism;Religion & Spirituality;Judaism;;
+463;453;Sikhism;Religion & Spirituality;Sikhism;;
+464;;Science;Science;;;
+465;464;Biological Sciences;Science;Biological Sciences;;
+466;464;Chemistry;Science;Chemistry;;
+467;464;Environment;Science;Environment;;
+468;464;Genetics;Science;Genetics;;
+469;464;Geography;Science;Geography;;
+470;464;Geology;Science;Geology;;
+471;464;Physics;Science;Physics;;
+472;464;Space and Astronomy;Science;Space and Astronomy;;
+390;464;Weather;Science;Weather;;
+473;;Shopping;Shopping;;;
+474;473;Coupons and Discounts;Shopping;Coupons and Discounts;;
+475;473;Flower Shopping;Shopping;Flower Shopping;;
+476;473;Gifts and Greetings Cards;Shopping;Gifts and Greetings Cards;;
+477;473;Grocery Shopping;Shopping;Grocery Shopping;;
+478;473;Holiday Shopping;Shopping;Holiday Shopping;;
+479;473;Household Supplies;Shopping;Household Supplies;;
+480;473;Lotteries and Scratchcards;Shopping;Lotteries and Scratchcards;;
+481;473;Sales and Promotions;Shopping;Sales and Promotions;;
+482;473;Children's Games and Toys;Shopping;Children's Games and Toys;;
+483;223;Sports;Healthy Living;Sports;;
+484;483;American Football;Healthy Living;Sports;American Football;
+485;483;Boxing;Healthy Living;Sports;Boxing;
+486;483;Cheerleading;Healthy Living;Sports;Cheerleading;
+487;483;College Sports;Healthy Living;Sports;College Sports;
+488;487;College Football;Healthy Living;Sports;College Sports;College Football
+489;487;College Basketball;Healthy Living;Sports;College Sports;College Basketball
+490;487;College Baseball;Healthy Living;Sports;College Sports;College Baseball
+491;483;Cricket;Healthy Living;Sports;Cricket;
+492;483;Cycling;Healthy Living;Sports;Cycling;
+493;483;Darts;Healthy Living;Sports;Darts;
+494;483;Disabled Sports;Healthy Living;Sports;Disabled Sports;
+495;483;Diving;Healthy Living;Sports;Diving;
+496;483;Equine Sports;Healthy Living;Sports;Equine Sports;
+497;483;Horse Racing;Healthy Living;Sports;Equine Sports;Horse Racing
+498;483;Extreme Sports;Healthy Living;Sports;Extreme Sports;
+499;498;Canoeing and Kayaking;Healthy Living;Sports;Extreme Sports;Canoeing and Kayaking
+500;498;Climbing;Healthy Living;Sports;Extreme Sports;Climbing
+501;498;Paintball;Healthy Living;Sports;Extreme Sports;Paintball
+502;498;Scuba Diving;Healthy Living;Sports;Extreme Sports;Scuba Diving
+503;498;Skateboarding;Healthy Living;Sports;Extreme Sports;Skateboarding
+504;498;Snowboarding;Healthy Living;Sports;Extreme Sports;Snowboarding
+505;498;Surfing and Bodyboarding;Healthy Living;Sports;Extreme Sports;Surfing and Bodyboarding
+506;498;Waterskiing and Wakeboarding;Healthy Living;Sports;Extreme Sports;Waterskiing and Wakeboarding
+507;483;Australian Rules Football;Healthy Living;Sports;Australian Rules Football;
+508;483;Fantasy Sports;Healthy Living;Sports;Fantasy Sports;
+509;483;Field Hockey;Healthy Living;Sports;Field Hockey;
+510;483;Figure Skating;Healthy Living;Sports;Figure Skating;
+511;483;Fishing Sports;Healthy Living;Sports;Fishing Sports;
+512;483;Golf;Healthy Living;Sports;Golf;
+513;483;Gymnastics;Healthy Living;Sports;Gymnastics;
+514;483;Hunting and Shooting;Healthy Living;Sports;Hunting and Shooting;
+515;483;Ice Hockey;Healthy Living;Sports;Ice Hockey;
+516;483;Inline Skating;Healthy Living;Sports;Inline Skating;
+517;483;Lacrosse;Healthy Living;Sports;Lacrosse;
+518;483;Auto Racing;Healthy Living;Sports;Auto Racing;
+519;518;Motorcycle Sports;Healthy Living;Sports;Auto Racing;Motorcycle Sports
+520;483;Martial Arts;Healthy Living;Sports;Martial Arts;
+521;483;Olympic Sports;Healthy Living;Sports;Olympic Sports;
+522;521;Summer Olympic Sports;Healthy Living;Sports;Olympic Sports;Summer Olympic Sports
+523;521;Winter Olympic Sports;Healthy Living;Sports;Olympic Sports;Winter Olympic Sports
+524;483;Poker and Professional Gambling;Healthy Living;Sports;Poker and Professional Gambling;
+525;483;Rodeo;Healthy Living;Sports;Rodeo;
+526;483;Rowing;Healthy Living;Sports;Rowing;
+527;483;Rugby;Healthy Living;Sports;Rugby;
+528;527;Rugby League;Healthy Living;Sports;Rugby;Rugby League
+529;527;Rugby Union;Healthy Living;Sports;Rugby;Rugby Union
+530;483;Sailing;Healthy Living;Sports;Sailing;
+531;483;Skiing;Healthy Living;Sports;Skiing;
+532;483;Snooker/Pool/Billiards;Healthy Living;Sports;Snooker/Pool/Billiards;
+533;483;Soccer;Healthy Living;Sports;Soccer;
+534;483;Badminton;Healthy Living;Sports;Badminton;
+535;483;Softball;Healthy Living;Sports;Softball;
+536;483;Squash;Healthy Living;Sports;Squash;
+537;483;Swimming;Healthy Living;Sports;Swimming;
+538;483;Table Tennis;Healthy Living;Sports;Table Tennis;
+539;483;Tennis;Healthy Living;Sports;Tennis;
+540;483;Track and Field;Healthy Living;Sports;Track and Field;
+541;483;Volleyball;Healthy Living;Sports;Volleyball;
+542;483;Walking;Healthy Living;Sports;Walking;
+543;483;Water Polo;Healthy Living;Sports;Water Polo;
+544;483;Weightlifting;Healthy Living;Sports;Weightlifting;
+545;483;Baseball;Healthy Living;Sports;Baseball;
+546;483;Wrestling;Healthy Living;Sports;Wrestling;
+547;483;Basketball;Healthy Living;Sports;Basketball;
+548;483;Beach Volleyball;Healthy Living;Sports;Beach Volleyball;
+549;483;Bodybuilding;Healthy Living;Sports;Bodybuilding;
+550;483;Bowling;Healthy Living;Sports;Bowling;
+551;483;Sports Equipment;Healthy Living;Sports;Sports Equipment;
+552;;Style & Fashion;Style & Fashion;;;
+553;552;Beauty;Style & Fashion;Beauty;;
+554;553;Hair Care;Style & Fashion;Beauty;Hair Care;
+555;553;Makeup and Accessories;Style & Fashion;Beauty;Makeup and Accessories;
+556;553;Nail Care;Style & Fashion;Beauty;Nail Care;
+557;553;Natural and Organic Beauty;Style & Fashion;Beauty;Natural and Organic Beauty;
+558;553;Perfume and Fragrance;Style & Fashion;Beauty;Perfume and Fragrance;
+559;553;Skin Care;Style & Fashion;Beauty;Skin Care;
+560;552;Women's Fashion;Style & Fashion;Women's Fashion;;
+561;560;Women's Accessories;Style & Fashion;Women's Fashion;Women's Accessories;
+562;561;Women's Glasses;Style & Fashion;Women's Fashion;Women's Accessories;Women's Glasses
+563;561;Women's Handbags and Wallets;Style & Fashion;Women's Fashion;Women's Accessories;Women's Handbags and Wallets
+564;561;Women's Hats and Scarves;Style & Fashion;Women's Fashion;Women's Accessories;Women's Hats and Scarves
+565;561;Women's Jewelry and Watches;Style & Fashion;Women's Fashion;Women's Accessories;Women's Jewelry and Watches
+566;560;Women's Clothing;Style & Fashion;Women's Fashion;Women's Clothing;
+567;566;Women's Business Wear;Style & Fashion;Women's Fashion;Women's Clothing;Women's Business Wear
+568;566;Women's Casual Wear;Style & Fashion;Women's Fashion;Women's Clothing;Women's Casual Wear
+569;566;Women's Formal Wear;Style & Fashion;Women's Fashion;Women's Clothing;Women's Formal Wear
+570;566;Women's Intimates and Sleepwear;Style & Fashion;Women's Fashion;Women's Clothing;Women's Intimates and Sleepwear
+571;566;Women's Outerwear;Style & Fashion;Women's Fashion;Women's Clothing;Women's Outerwear
+572;566;Women's Sportswear;Style & Fashion;Women's Fashion;Women's Clothing;Women's Sportswear
+573;560;Women's Shoes and Footwear;Style & Fashion;Women's Fashion;Women's Shoes and Footwear;
+574;552;Body Art;Style & Fashion;Body Art;;
+575;552;Children's Clothing;Style & Fashion;Children's Clothing;;
+576;552;Designer Clothing;Style & Fashion;Designer Clothing;;
+577;552;Fashion Trends;Style & Fashion;Fashion Trends;;
+578;552;High Fashion;Style & Fashion;High Fashion;;
+579;552;Men's Fashion;Style & Fashion;Men's Fashion;;
+580;579;Men's Accessories;Style & Fashion;Men's Fashion;Men's Accessories;
+581;580;Men's Jewelry and Watches;Style & Fashion;Men's Fashion;Men's Accessories;Men's Jewelry and Watches
+582;579;Men's Clothing;Style & Fashion;Men's Fashion;Men's Clothing;
+583;582;Men's Business Wear;Style & Fashion;Men's Fashion;Men's Clothing;Men's Business Wear
+584;582;Men's Casual Wear;Style & Fashion;Men's Fashion;Men's Clothing;Men's Casual Wear
+585;582;Men's Formal Wear;Style & Fashion;Men's Fashion;Men's Clothing;Men's Formal Wear
+586;582;Men's Outerwear;Style & Fashion;Men's Fashion;Men's Clothing;Men's Outerwear
+587;582;Men's Sportswear;Style & Fashion;Men's Fashion;Men's Clothing;Men's Sportswear
+588;582;Men's Underwear and Sleepwear;Style & Fashion;Men's Fashion;Men's Clothing;Men's Underwear and Sleepwear
+589;579;Men's Shoes and Footwear;Style & Fashion;Men's Fashion;Men's Shoes and Footwear;
+590;552;Personal Care;Style & Fashion;Personal Care;;
+591;590;Bath and Shower;Style & Fashion;Personal Care;Bath and Shower;
+592;590;Deodorant and Antiperspirant;Style & Fashion;Personal Care;Deodorant and Antiperspirant;
+593;590;Oral care;Style & Fashion;Personal Care;Oral care;
+594;590;Shaving;Style & Fashion;Personal Care;Shaving;
+595;552;Street Style;Style & Fashion;Street Style;;
+596;;Technology & Computing;Technology & Computing;;;
+597;596;Artificial Intelligence;Technology & Computing;Artificial Intelligence;;
+598;596;Augmented Reality;Technology & Computing;Augmented Reality;;
+599;596;Computing;Technology & Computing;Computing;;
+600;599;Computer Networking;Technology & Computing;Computing;Computer Networking;
+601;599;Computer Peripherals;Technology & Computing;Computing;Computer Peripherals;
+602;599;Computer Software and Applications;Technology & Computing;Computing;Computer Software and Applications;
+603;602;3-D Graphics;Technology & Computing;Computing;Computer Software and Applications;3-D Graphics
+604;602;Photo Editing Software;Technology & Computing;Computing;Computer Software and Applications;Photo Editing Software
+605;602;Shareware and Freeware;Technology & Computing;Computing;Computer Software and Applications;Shareware and Freeware
+606;602;Video Software;Technology & Computing;Computing;Computer Software and Applications;Video Software
+607;602;Web Conferencing;Technology & Computing;Computing;Computer Software and Applications;Web Conferencing
+608;602;Antivirus Software;Technology & Computing;Computing;Computer Software and Applications;Antivirus Software
+609;602;Browsers;Technology & Computing;Computing;Computer Software and Applications;Browsers
+610;602;Computer Animation;Technology & Computing;Computing;Computer Software and Applications;Computer Animation
+611;602;Databases;Technology & Computing;Computing;Computer Software and Applications;Databases
+612;602;Desktop Publishing;Technology & Computing;Computing;Computer Software and Applications;Desktop Publishing
+613;602;Digital Audio;Technology & Computing;Computing;Computer Software and Applications;Digital Audio
+614;602;Graphics Software;Technology & Computing;Computing;Computer Software and Applications;Graphics Software
+615;602;Operating Systems;Technology & Computing;Computing;Computer Software and Applications;Operating Systems
+80DV8O;602;Communication;Computer Software and Applications;Communication;;
+WQC6HR;602;Maps & Navigation;Computer Software and Applications;Maps & Navigation;;
+W3CW2J;602;Productivity;Computer Software and Applications;Productivity;;
+616;599;Data Storage and Warehousing;Technology & Computing;Computing;Data Storage and Warehousing;
+617;599;Desktops;Technology & Computing;Computing;Desktops;
+618;599;Information and Network Security;Technology & Computing;Computing;Information and Network Security;
+619;599;Internet;Technology & Computing;Computing;Internet;
+620;619;Cloud Computing;Technology & Computing;Computing;Internet;Cloud Computing
+621;619;Web Development;Technology & Computing;Computing;Internet;Web Development
+622;619;Web Hosting;Technology & Computing;Computing;Internet;Web Hosting
+623;619;Email;Technology & Computing;Computing;Internet;Email
+624;619;Internet for Beginners;Technology & Computing;Computing;Internet;Internet for Beginners
+625;619;Internet of Things;Technology & Computing;Computing;Internet;Internet of Things
+626;619;IT and Internet Support;Technology & Computing;Computing;Internet;IT and Internet Support
+627;619;Search;Technology & Computing;Computing;Internet;Search
+628;619;Social Networking;Technology & Computing;Computing;Internet;Social Networking
+629;619;Web Design and HTML;Technology & Computing;Computing;Internet;Web Design and HTML
+630;599;Laptops;Technology & Computing;Computing;Laptops;
+631;599;Programming Languages;Technology & Computing;Computing;Programming Languages;
+632;596;Consumer Electronics;Technology & Computing;Consumer Electronics;;
+633;632;Cameras and Camcorders;Technology & Computing;Consumer Electronics;Cameras and Camcorders;
+634;632;Home Entertainment Systems;Technology & Computing;Consumer Electronics;Home Entertainment Systems;
+635;632;Smartphones;Technology & Computing;Consumer Electronics;Smartphones;
+636;632;Tablets and E-readers;Technology & Computing;Consumer Electronics;Tablets and E-readers;
+637;632;Wearable Technology;Technology & Computing;Consumer Electronics;Wearable Technology;
+638;596;Robotics;Technology & Computing;Robotics;;
+639;596;Virtual Reality;Technology & Computing;Virtual Reality;;
+653;;Travel;Travel;;;
