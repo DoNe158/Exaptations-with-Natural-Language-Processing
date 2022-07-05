@@ -5,6 +5,6 @@
 Furthermore, individually collected user descriptions of various smartphone apps are evaluated and also assigned to a category in the present taxonomy. This is the part where the insights are established in the eventual exaptative use.</p>
 <p>The next step is to determine if there is a match from the category assigned to the smartphone app and the category assigned to the user description. If so, it can be assumed that there is no misuse. Otherwise, the distance between the identified categories is measured (the taxonomy is stored as a non-binary tree). If different main categories are present, an exaptation is assumed.</p>
 
-[description NLP.pdf](https://github.com/DoNe158/Exaptations-with-Natural-Language-Processing/files/9045706/description.NLP.pdf)
+[Intended Aim of Measuring Exaptations](https://github.com/DoNe158/Exaptations-with-Natural-Language-Processing/files/9045706/description.NLP.pdf)
 
 [Process of determination of exaptations](https://user-images.githubusercontent.com/100798019/177308758-b907105b-23ac-4d33-a8f5-6ca1e549b06e.png)
